@@ -359,7 +359,7 @@ body {
 }
 
 .project-item p {
-  color: var(--text-secondary);
+  color: var(--text-primary);
   margin-bottom: 1rem;
   line-height: 1.6;
 }
