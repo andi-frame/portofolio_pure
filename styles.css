@@ -322,7 +322,7 @@ body {
 }
 
 .skill-tag {
-  background: linear-gradient(45deg, var(--color-teal), var(--color-orange));
+  background: var(--color-dark-blue);
   color: white;
   padding: 0.5rem 1rem;
   border-radius: 20px;
