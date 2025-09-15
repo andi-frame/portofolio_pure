@@ -410,6 +410,13 @@ body {
   border-left: 3px solid var(--color-orange);
 }
 
+.cert-link{
+    text-decoration: none;
+}
+.cert-link:hover h3{
+    text-decoration: underline;
+}
+
 .education-item h3,
 .cert-item h3 {
   color: var(--text-primary);
